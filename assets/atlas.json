@@ -1,0 +1,42 @@
+{
+  "frames": {
+    "area.png": {
+      "frame": { "x": 1, "y": 1283, "w": 608, "h": 608 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 608, "h": 608 },
+      "sourceSize": { "w": 608, "h": 608 }
+    },
+    "carrot.png": {
+      "frame": { "x": 1, "y": 1, "w": 1280, "h": 1280 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 1280 },
+      "sourceSize": { "w": 1280, "h": 1280 }
+    },
+    "rabbit.png": {
+      "frame": { "x": 611, "y": 1283, "w": 383, "h": 580 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 383, "h": 580 },
+      "sourceSize": { "w": 395, "h": 600 }
+    },
+    "snake2.png": {
+      "frame": { "x": 996, "y": 1283, "w": 241, "h": 241 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 241, "h": 241 },
+      "sourceSize": { "w": 256, "h": 256 }
+    }
+  },
+  "animations": {},
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "atlas.png",
+    "format": "RGBA8888",
+    "size": { "w": 1282, "h": 1892 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:8620005c817dccbca25799d0ff9c8a01:85a8a8ae5eb178d5a730a3ca705ff073:cbce6b53f0f49e0bf15173c25c41f876$"
+  }
+}
