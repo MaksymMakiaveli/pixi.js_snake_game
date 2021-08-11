@@ -223,7 +223,7 @@ levelButton.forEach((btn, i) => {
       textLevelHTML.style.color = '#e1f00e';
     }
     if (btn.id === 'senior') {
-      levelGame = 0.5;
+      levelGame = 1;
       textLevelHTML.innerHTML = 'senior';
       textLevelHTML.style.color = '#e90f0f';
     }
